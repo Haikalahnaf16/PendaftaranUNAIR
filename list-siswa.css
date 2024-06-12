@@ -1,0 +1,9 @@
+tr, th, td{
+  border: 1px solid #111;
+  padding: 17px;
+}
+table {
+margin: 0 auto;
+justify-content: center;
+align-items: center;
+}
